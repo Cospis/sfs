@@ -15,3 +15,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav ul{
+  margin-top: 1%;
+  display: flex;
+list-style: none;
+justify-content: space-evenly;
+}
+li a{
+  text-decoration: none;
+  text-transform: uppercase;
+}
+ul li{
+  margin: 0 50px;
+}
