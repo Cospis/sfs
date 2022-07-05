@@ -3,25 +3,25 @@ const Navbar = () => {
     <div className="nav">
       <ul>
         <li>
-          <a href="#">Home</a>
+          <a href="/home">Home</a>
         </li>
         <li>
           {" "}
-          <a href="#1">About Us</a>
+          <a href="/abt">About Us</a>
         </li>
         <li>
           {" "}
-          <a href="#2">Properties</a>
+          <a href="/ppty">Properties</a>
         </li>
         <li>
           {" "}
-          <a href="#3">Properties Listing</a>
+          <a href="/pptyl">Properties Listing</a>
         </li>
         <li>
-          <a href="#4">FAQs</a>
+          <a href="/faq">FAQs</a>
         </li>
         <li>
-          <a href="#5">Contact Us</a>
+          <a href="/cnct">Contact Us</a>
         </li>
       </ul>
     </div>
